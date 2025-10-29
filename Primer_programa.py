@@ -1,3 +1,3 @@
-mensaje="Hola Python soy sergio" 
+mensaje="Hola Python soy Sergio" 
 
 print(mensaje)
